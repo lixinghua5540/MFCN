@@ -1,4 +1,4 @@
-# Combined-Loss-Based-MFCN-for-Change-Detection
+# MFCN
 Title: ***A Combined Loss-Based Multiscale Fully Convolutional Network for High-Resolution Remote Sensing Image Change Detection***[[paper]](https://ieeexplore.ieee.org/abstract/document/9502172)<br>
 <br>
 ***Introduction***<br>
